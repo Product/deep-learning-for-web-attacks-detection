@@ -1,1 +1,3 @@
-data in this files are from ALL-New with adding headers as '/ xxxx / xxxx / ' .
+I have deleted repeated data.
+Anomalous3.csv: anomalous URLs
+Normal3.csv: normal URLs

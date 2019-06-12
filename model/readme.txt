@@ -1,0 +1,1 @@
+I tried two CNNs for this task. The pathes are all needed to be changed based on the actual situation.
